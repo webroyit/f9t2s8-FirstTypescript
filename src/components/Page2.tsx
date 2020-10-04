@@ -7,7 +7,7 @@ class Page2 extends Component{
 
     return(
       <div>
-        <Part1 />
+        <Part1 text="How are you?" />
       </div>
     )
   }

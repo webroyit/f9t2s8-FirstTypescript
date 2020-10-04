@@ -1,8 +1,9 @@
 import React from 'react';
 
-const Part1 = () => {
+// By default, the return type is any
+const Part1 = (prop: {text: string}): any => {
     return(
-        <p>Part1</p>
+        <p>{prop.text}</p>
     );
 }
 
