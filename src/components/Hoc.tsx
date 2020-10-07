@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 
-import Part1 from './Part1';
-
 const initialState = {
   name: 'Bob',
   text: 'how your day?'
