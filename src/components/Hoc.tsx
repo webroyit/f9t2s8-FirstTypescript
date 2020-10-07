@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
 const initialState = {
-  name: 'Bob',
-  text: 'how your day?'
+  name: 'Rob',
+  text: 'how your family?'
 }
 
 // Define the state type
